@@ -1,0 +1,41 @@
+h1 {
+  text-align: center;
+}
+
+p {
+  text-align: center;
+}
+
+body {
+  background-color: gray;
+}
+
+.panel {
+  margin-top: 20px;
+  padding: 10px;
+}
+
+.container{
+  text-align: center;
+}
+
+button {
+  margin-top: 50px;
+  margin-left: 30px;
+  margin-right: 30px;
+}
+
+
+/* Showing and hiding*/
+
+p {
+  display: none;
+}
+
+#x {
+
+}
+
+#y {
+
+}
