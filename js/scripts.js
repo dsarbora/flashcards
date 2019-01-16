@@ -64,6 +64,9 @@ $(function(){
   var counter = 0;
   var text;
   $("#next").click(function() {
+    $(".content").hide();
+    $(".cardLabel").show();
+
     counter++;
     if (counter === 0){
       $(".panel").hide();
@@ -150,6 +153,8 @@ $(function(){
   });
 
     $("#back").click(function(){
+      $(".content").hide();
+      $(".cardLabel").show();
       counter--;
 
       if (counter === 0){
