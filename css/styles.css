@@ -28,7 +28,7 @@ button {
 
 /* Showing and hiding*/
 
-p {
+p.content {
   display: none;
 }
 
