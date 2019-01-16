@@ -8,6 +8,10 @@ p {
 
 body {
   background-color: gray;
+
+}
+.panel {
+  width: 450px
 }
 
 .panel {
@@ -17,6 +21,7 @@ body {
 
 .container{
   text-align: center;
+  width: 450px;
 }
 
 button {
