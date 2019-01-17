@@ -62,7 +62,6 @@ $(function(){
 
 
   var counter = 0;
-  var text;
   $("#next").click(function() {
     $(".content").hide();
     $(".cardLabel").show();
